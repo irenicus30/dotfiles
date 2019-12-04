@@ -1,0 +1,21 @@
+module add vscode/1.26.1 
+
+alias szukacz='~/scripts/szukacz2.py'
+alias szukacz='~/scripts/szukacz2.py'
+
+
+module add git
+module add firefox
+module add vscode/1.29
+module add ag
+module add tree
+alias g1="git add -u && git commit --amend --no-edit && git push origin HEAD:refs/for/master"
+
+[[ -f ~/.LESS_TERMCAP.sh ]] && . ~/.LESS_TERMCAP.sh
+
+
+export LESS='-Ri'
+export GREP_OPTIONS='--color=always'
+
+
+
