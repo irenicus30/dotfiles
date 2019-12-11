@@ -26,7 +26,7 @@ Plugin 'itchyny/lightline.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'jistr/vim-nerdtree-tabs'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
-
+Plugin 'davidhalter/jedi-vim'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
