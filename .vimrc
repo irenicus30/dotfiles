@@ -27,6 +27,8 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'jistr/vim-nerdtree-tabs'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
 Plugin 'davidhalter/jedi-vim'
+Plugin 'morhetz/gruvbox'
+
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
@@ -66,4 +68,7 @@ autocmd VimEnter * NERDTree
 autocmd VimEnter * wincmd p
 
 let g:nerdtree_tabs_open_on_console_startup=1
+
+colorscheme gruvbox
+set bg=dark
 
