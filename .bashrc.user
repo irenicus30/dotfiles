@@ -18,4 +18,6 @@ export LESS='-Ri'
 export GREP_OPTIONS='--color=always'
 
 
+source ".prompt"
+
 
