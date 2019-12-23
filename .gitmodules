@@ -17,3 +17,8 @@
 [submodule ".vim/bundle/jedi-vim.git"]
 	path = .vim/bundle/jedi-vim.git
 	url = https://github.com/davidhalter/jedi-vim.git
+
+[submodule ".vim/bundle/awesome-vim-colorschemes.git"]
+	path = .vim/bundle/awesome-vim-colorschemes.git
+	url = https://github.com/rafi/awesome-vim-colorschemes.git
+
