@@ -18,10 +18,9 @@
 	path = .vim/bundle/jedi-vim.git
 	url = https://github.com/davidhalter/jedi-vim.git
 
-[submodule ".vim/bundle/awesome-vim-colorschemes.git"]
-	path = .vim/bundle/awesome-vim-colorschemes.git
-	url = https://github.com/rafi/awesome-vim-colorschemes.git
-
 [submodule ".vim/bundle/gruvbox"]
 	path = .vim/bundle/gruvbox
 	url = https://github.com/morhetz/gruvbox.git
+[submodule ".vim/bundle/awesome-vim-colorschemes"]
+	path = .vim/bundle/awesome-vim-colorschemes
+	url = https://github.com/irenicus30/dotfiles.git
