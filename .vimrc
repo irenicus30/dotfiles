@@ -28,6 +28,7 @@ Plugin 'jistr/vim-nerdtree-tabs'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
 Plugin 'davidhalter/jedi-vim'
 Plugin 'morhetz/gruvbox'
+Plugin 'tomasr/molokai'
 
 
 " The following are examples of different formats supported.

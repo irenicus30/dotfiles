@@ -24,3 +24,6 @@
 [submodule ".vim/bundle/awesome-vim-colorschemes"]
 	path = .vim/bundle/awesome-vim-colorschemes
 	url = https://github.com/irenicus30/dotfiles.git
+[submodule ".vim/bundle/molokai"]
+	path = .vim/bundle/molokai
+	url = https://github.com/tomasr/molokai.git
