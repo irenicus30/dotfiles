@@ -29,6 +29,7 @@ Plugin 'Xuyuanp/nerdtree-git-plugin'
 Plugin 'davidhalter/jedi-vim'
 Plugin 'morhetz/gruvbox'
 Plugin 'tomasr/molokai'
+Plugin 'ervandew/supertab'
 
 
 " The following are examples of different formats supported.
