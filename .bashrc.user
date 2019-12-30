@@ -20,4 +20,5 @@ export GREP_OPTIONS='--color=always'
 
 source ".prompt"
 
+# export TERM=xterm-256color
 
