@@ -30,7 +30,7 @@ Plugin 'davidhalter/jedi-vim'
 Plugin 'morhetz/gruvbox'
 Plugin 'tomasr/molokai'
 Plugin 'ervandew/supertab'
-
+Plugin 'leafgarland/typescript-vim'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
