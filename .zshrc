@@ -98,5 +98,5 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-source ~/.LESS_TERMCAP
+source ~/.LESS_TERMCAP.sh
 
