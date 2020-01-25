@@ -48,3 +48,6 @@
 [submodule "tpm"]
 	path = tpm
 	url = https://github.com/tmux-plugins/tpm.git
+[submodule "pimux"]
+	path = pimux
+	url = https://github.com/ndyakov/pimux.git
