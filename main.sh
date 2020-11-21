@@ -5,6 +5,9 @@ cp .LESS_TERMCAP.sh ~/.LESS_TERMCAP.sh
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
+vim -c PluginInstall
+
+
 
 
 
