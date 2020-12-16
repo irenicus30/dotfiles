@@ -31,7 +31,7 @@ Plugin 'morhetz/gruvbox'
 Plugin 'tomasr/molokai'
 Plugin 'ervandew/supertab'
 Plugin 'leafgarland/typescript-vim'
-
+Plugin 'altercation/vim-colors-solarized'
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
 " plugin on GitHub repo
@@ -71,6 +71,7 @@ autocmd VimEnter * wincmd p
 
 let g:nerdtree_tabs_open_on_console_startup=1
 
-colorscheme molokai
+syntax enable
 set bg=dark
+silent! colorscheme solarized
 
