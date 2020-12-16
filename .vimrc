@@ -71,6 +71,6 @@ autocmd VimEnter * wincmd p
 
 let g:nerdtree_tabs_open_on_console_startup=1
 
-colorscheme gruvbox
+colorscheme molokai
 set bg=dark
 
