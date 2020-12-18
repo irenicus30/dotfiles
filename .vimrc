@@ -32,6 +32,7 @@ Plugin 'tomasr/molokai'
 Plugin 'ervandew/supertab'
 Plugin 'leafgarland/typescript-vim'
 Plugin 'altercation/vim-colors-solarized'
+Plugin 'chriskempson/base16-vim'
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
 " plugin on GitHub repo
