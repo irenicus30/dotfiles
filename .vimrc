@@ -74,5 +74,5 @@ let g:nerdtree_tabs_open_on_console_startup=1
 
 syntax enable
 set bg=dark
-silent! colorscheme solarized
+silent! colorscheme molokai
 
