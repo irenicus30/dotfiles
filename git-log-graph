@@ -1,0 +1,9 @@
+git log --graph --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''%C(white)%s%C(reset) %C(bold white)— %an%C(reset)' --abbrev-commit --all
+
+Alias it to something like:
+git config alias.graph = log --graph ..etc..
+
+For a quick way to get an overview of your current branches etc, use a bash alias
+alias gl='git graph -10'
+
+Looks like: http://cl.ly/Ri9R
