@@ -51,3 +51,6 @@
 [submodule "pimux"]
 	path = pimux
 	url = https://github.com/ndyakov/pimux.git
+[submodule ".tmux"]
+	path = .tmux
+	url = https://github.com/gpakosz/.tmux.git
