@@ -1,1 +1,22 @@
-*sw[a-z]
+# vim
+*sw[a-p]
+
+# Node
+npm-debug.log
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# WebStorm
+.idea/
+
+# vi
+*~
+
+# General
+log/
+*.log
+
